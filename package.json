@@ -1,0 +1,23 @@
+{
+  "name": "light-theme",
+  "displayName": "PHP Point (light theme)",
+  "description": "Best color combination light theme.",
+  "publisher": "phppoint",
+  "version": "0.2.28032025",
+  "icon": "logotheme.png",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "phppoint",
+        "uiTheme": "vs",
+        "path": "./themes/phppoint-color-theme.json"
+      }
+    ]
+  }
+}
