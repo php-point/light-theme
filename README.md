@@ -1,6 +1,10 @@
 # PHPPoint Light Theme
 ## 🌟 Introduction
-We aim to provide a clean and visually appealing light theme for VS Code, ensuring a comfortable and efficient coding experience. The PHPPoint Light Theme is designed with carefully chosen colors to enhance readability and reduce eye strain.
+PHPPoint Light Theme is designed to provide a clean and visually appealing coding environment for PHP developers. With a focus on readability and reducing eye strain, this theme offers a soft, light background combined with carefully selected accent colors for various syntax elements.
+
+The color palette ensures optimal contrast between text and background, making it easy to distinguish different components of the code. The soft tones for comments and the clear distinctions for keywords, variables, and functions enhance the coding experience, while providing a comfortable and efficient workspace for long coding sessions.
+
+Whether you're debugging or writing code, the PHPPoint Light Theme is built to help you stay focused and productive while maintaining a visually soothing interface.
 
 ## 🎨 Features
 ✅ Soft and balanced color scheme for better focus
